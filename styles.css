@@ -40,7 +40,7 @@ img{
 
 .grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Adjust to fit your layout needs */
+    grid-template-columns: repeat(3, 1fr); 
     gap: 20px;
     padding: 20px;
 }
@@ -63,7 +63,7 @@ img{
 }
 
 .grid-button img {
-    width: 80%; /* Adjust based on your preference */
+    width: 80%; 
     height: auto;
     margin-top: 10px;
 }
